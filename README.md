@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/manxome77/manxome77/_apis/build/status/manx0mef0e.pipelines-java?branchName=master)](https://dev.azure.com/manxome77/manxome77/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
